@@ -2,7 +2,7 @@
   "name": "cinepolis-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ALEXUSCR-27/cinepolis-web.git",
+  "homepage": "https://ALEXUSCR-27.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
