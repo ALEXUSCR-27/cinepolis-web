@@ -2,7 +2,7 @@ exports.ServerConfig = {
 	user: 'cinepolis-web',
 	password: '1234',
 	server: 'localhost',
-	database: 'Movies',
+	database: 'CinepolisWeb',
 	options: {
 		encrypt:false,
 		"enableArithAbort":true
